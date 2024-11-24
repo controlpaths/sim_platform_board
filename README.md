@@ -1,6 +1,6 @@
 # Platform Board
 
-This board is intended to run real time simulation models and conenct them to different commercial platforms like Arduino or TI Launchpad. The core of the board is an FPGA able to run models with time steps up to 100ns.
+This board is intended to run real time simulation models and connect them to different commercial platforms like Arduino or TI Launchpad. The core of the board is an FPGA able to run models with time steps up to 100ns.
 
 ![](./doc/board_3d.png)
 
@@ -33,7 +33,7 @@ The platform board is compatible with:
 
 ## Build your own
 
-The Platform Board is open-source, so you can use the output files to manufacture your own in [JLCPCB](https://jlcpcb.com/?from=controlpath). You just need to compress the `output_files` directory, and upload it to [JLCPCB](https://jlcpcb.com/?from=controlpath). 
+The Platform Board is open-source, so you can use the output files to manufacture your own in [JLCPCB](https://jlcpcb.com/?from=controlpath). You just need to compress the `production_files` directory, and upload it to [JLCPCB](https://jlcpcb.com/?from=controlpath). 
 
 ![](./doc/jlcpcb.png)
 
