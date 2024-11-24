@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "xilinx7")(type "Legacy")(uri "${KIPRJMOD}/lib/xilinx7.lib")(options "")(descr ""))
+  (lib (name "LAUNCHXL-F28379D")(type "KiCad")(uri "${KIPRJMOD}/lib/LAUNCHXL-F28379D.kicad_sym")(options "")(descr ""))
+  (lib (name "ABX00042")(type "KiCad")(uri "${KIPRJMOD}/lib/ABX00042.kicad_sym")(options "")(descr ""))
+  (lib (name "arduino-library")(type "KiCad")(uri "${KIPRJMOD}/lib/arduino-library.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/lib/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+)
